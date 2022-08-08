@@ -2,7 +2,7 @@
 
 :green_circle: Here you find Html , Css , JavaScript and of Course Vue js Codes
 <br>
-:leaves:  I am currently learning front end 
+:ledger:  I am currently learning front end 
 <br>
 :envelope_with_arrow: How reach me : sajerloo96@gmail.com 
 <br>
