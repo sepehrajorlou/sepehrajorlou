@@ -5,6 +5,8 @@
 :leaves:  I am currently learning front end 
 <br>
 :envelope_with_arrow: How reach me : sajerloo96@gmail.com 
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrajorlou&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 
