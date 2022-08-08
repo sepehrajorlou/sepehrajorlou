@@ -9,6 +9,4 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sepehrajorlou&theme=vue-dark)](https://git.io/streak-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrajorlou&show_icons=true&theme=vue-dark)
+
